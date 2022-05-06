@@ -41,7 +41,8 @@ To do so, from **"Servises"** -> click **"S3"**
 2. `npm start`
 
 
-
+# Env
+`NODE_TLS_REJECT_UNAUTHORIZED=0`
     
 
 
